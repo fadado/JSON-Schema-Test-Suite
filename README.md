@@ -114,6 +114,10 @@ This suite is being used by:
 * [ajv](https://github.com/epoberezkin/ajv)
 * [djv](https://github.com/korzio/djv)
 
+### jq ###
+
+* [jval](https://github.com/fadado/jbol#jval)
+
 ### Node.js ###
 
 The JSON Schema Test Suite is also available as an
